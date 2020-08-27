@@ -12,7 +12,9 @@ You'll notice there are two options for setup that the tutorial offers. Do **Set
 * Add to this `readme.md`below!
 * Pull request :D 
 
-## Paste the link to your finished repo here:
+## Paste the link to your finished repo here: https://github.com/subrataroy321/React-tic-tac-toe_by_Subrata_SEIR713
 
 
 ## Write a brief reflection on what you learned from this tutorial here:
+
+Didn't quite get everything. It seems blurry to me.
