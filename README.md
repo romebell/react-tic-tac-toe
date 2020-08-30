@@ -13,6 +13,7 @@ You'll notice there are two options for setup that the tutorial offers. Do **Set
 * Pull request :D 
 
 ## Paste the link to your finished repo here:
-
+https://github.com/akhuh213/tic-tac-toe-react/tree/master/src
 
 ## Write a brief reflection on what you learned from this tutorial here:
+I learned how parent and child component work to each other
