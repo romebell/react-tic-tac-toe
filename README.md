@@ -14,5 +14,12 @@ You'll notice there are two options for setup that the tutorial offers. Do **Set
 
 ## Paste the link to your finished repo here:
 
+https://github.com/crnguyen/react-tic-tac-toe
+
 
 ## Write a brief reflection on what you learned from this tutorial here:
+What I learned -
+
+* How to pass a prop from a parent Board component to a child Square component
+* Components use state, so we used this.state to remember which square was clicked, and this can also be changed by re-setting state
+
