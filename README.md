@@ -14,5 +14,6 @@ You'll notice there are two options for setup that the tutorial offers. Do **Set
 
 ## Paste the link to your finished repo here:
 
+[Tic Tac Toe](https://github.com/decpdx584/react_tic-tac-tutorial)
 
 ## Write a brief reflection on what you learned from this tutorial here:
