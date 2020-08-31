@@ -16,3 +16,5 @@ You'll notice there are two options for setup that the tutorial offers. Do **Set
 
 
 ## Write a brief reflection on what you learned from this tutorial here:
+
+This was actually pretty fun to create, especially because I had struggled doing the tic tac toe javascript. This was nice to learn more about because I learned knew concepts like useHistory(). I didn't think it would be possible to go to your previous moves. It gives me a better insight of how to use useState, but I still need more practice. 
