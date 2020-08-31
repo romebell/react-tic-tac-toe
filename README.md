@@ -17,3 +17,5 @@ You'll notice there are two options for setup that the tutorial offers. Do **Set
 [Tic Tac Toe](https://github.com/decpdx584/react_tic-tac-tutorial)
 
 ## Write a brief reflection on what you learned from this tutorial here:
+
+This tutorial TRULY illuminated the idea of "state" for me. I wasn't entirely clear on its advantages until I completed the tutorial. React is a powerful engine for front-end web development!
