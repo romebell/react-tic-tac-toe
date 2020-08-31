@@ -1,42 +1,45 @@
 body {
-  background-color: black;
-  color: white;
+  background-color: sandybrown;
+  color: olive;
   font-family: sans-serif;
   display: flex;
-  /* align-items: center; */
   justify-content: center;
   min-height: 100vh;
   padding: 2rem;
 }
 
 h1 {
+  text-align: center;
   margin: 2rem;
 }
 
 .board {
-  border: 1rem solid #ff652f;
-  background: #ff652f;
-  width: 500px;
-  height: 500px;
+  border: none;
+  background-color: wheat;
+  width: 400px;
+  height: 400px;
   display: grid;
   grid-template: repeat(3, 1fr) / repeat(3, 1fr);
-  gap: 1rem;
+  gap: 5px;
 }
 
 .squares {
-  background: #272727;
+  background: sandybrown;
   border: none;
-  font-size: 5rem;
-  /* font-weight: 800; */
+  /* font-size: 3rem; */
   cursor: pointer;
   outline: none;
 }
 
 .X {
-  color: red;
+  background-image: url('./images/bacon.png');
+  background-size: cover;
+  color: transparent;
 }
 .O {
-  color: green;
+  background-image: url('./images/egg.png');
+  background-size: cover;
+  color: transparent;
 }
 
 .info-wrapper {
@@ -53,8 +56,8 @@ li {
 }
 
 .info-wrapper button {
-  background: #272727;
-  color: white;
+  background: sandybrown;
+  color: olive;
   border: none;
   outline: none;
   cursor: pointer;
