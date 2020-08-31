@@ -1,0 +1,3 @@
+# My reflection
+
+This was certainly a much more slick approach to tic-tac-toe than vanilla js. Going through this was a great insight into React. They took a little bit of a different approach, but I liked pieces from both class and the tutorial! ```useHistory()``` was a slick way to handle going back to previous states. Practicing more with state and how it can be utilized gave some more insight to the powers of react. The way they detected the win condition was very similar to what I wanted to do at the begining of cohort, but I think I needed this time to understand how that works, makes "perfect" sense now. Looking forward to what the rest of cohort brings!
